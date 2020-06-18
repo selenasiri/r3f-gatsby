@@ -19,7 +19,7 @@ export default () => (
         enableZoom={false}
         enableDamping
         dampingFactor={0.5}
-        rotateSpeed={50}
+        rotateSpeed={0.75}
         maxPolarAngle={Math.PI / 3}
         minPolarAngle={Math.PI / 3}
       />
